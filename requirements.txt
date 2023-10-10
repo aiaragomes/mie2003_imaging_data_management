@@ -1,5 +1,5 @@
 pydicom==2.4.3
 nibabel==5.1.0
-scikit-image==0.22.0
-matplotlib==3.8.0
+scikit-image==0.21.0
+matplotlib==3.7.3
 jupyter==1.0.0
