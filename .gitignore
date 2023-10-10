@@ -1,0 +1,13 @@
+.idea
+.venv
+.ipynb_checkpoints/
+__pycache__/
+
+docs/
+data/
+material/
+scripts/
+slides/
+week7*/
+*timeschedule.txt
+*_solutions.ipynb
