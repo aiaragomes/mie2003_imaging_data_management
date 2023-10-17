@@ -6,6 +6,7 @@ import os
 import pydicom
 import numpy as np
 
+
 def load_scan(files_path: int) -> np.array:
     """ Load DICOM files
 

@@ -8,7 +8,8 @@ data/
 material/
 scripts/
 slides/
-week7*/
+week7_lecture/
+week7_skills_training/tutorial/data
 instructions.txt
 *timeschedule.txt
-*_solutions.ipynb
+*_solutions*
